@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["esnext"],
+    "moduleResolution": "node",
+    "types": ["@typescript-to-lua/language-extensions", "lua-types/5.1"],
+    "strict": true,
+    "jsx": "react",
+    "jsxFactory": "Ui.createElement",
+    "jsxFragmentFactory": "Ui.Fragment",
+  },
+  "tstl": {
+    "luaTarget": "5.1"
+  }
+}
