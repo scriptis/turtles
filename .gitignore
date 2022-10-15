@@ -44,6 +44,7 @@ $RECYCLE.BIN/
 .fuse_hidden*
 .fusebox/
 .grunt
+.idea/
 .lock-wscript
 .next
 .nfs*
